@@ -1,0 +1,22 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.navbar-brand {
+    font-size: 36px;
+}
+
+.nav .nav-link.active {
+    background-color: #ccc;
+    color: blue;
+}
+
+#filmes {
+    background-color: rgb(85, 216, 203);
+}
+
+@media screen and (max-width: 757px) {
+    .card {
+        margin-bottom: 20px;
+    }
+}
